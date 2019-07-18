@@ -5,6 +5,7 @@ A collection of my data science projects from various datasets, case studies, an
 - Data manipulation
 - Data visualization
 - Probability & statistics
+- Exploratory data analysis
 - Machine learning
 - Applied finance
 
