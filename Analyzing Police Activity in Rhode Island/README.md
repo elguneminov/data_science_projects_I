@@ -1,4 +1,4 @@
-This project is based on DataCamp's "[Analyzing Police Activity with Pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)"[TEXT TO SHOW]
+This project is based on DataCamp's "[Analyzing Police Activity with Pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)" course as part of the Data Scientist with Python track. 
 
 We will explore the Stanford Open Policing Project dataset and analyze the impact of gender on police behavior. The objective of this project is to gain more practice cleaning messy data, creating visualizations, combining and reshaping datasets, and manipulating time series data. There are five sections in this project:
 
