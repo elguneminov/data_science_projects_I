@@ -5,11 +5,11 @@ It includes three iris species with 50 samples each as well as some properties a
 
 The columns in this dataset are:
 
-Id
-SepalLengthCm
-SepalWidthCm
-PetalLengthCm
-PetalWidthCm
-Species
+- Id
+- SepalLengthCm
+- SepalWidthCm
+- PetalLengthCm
+- PetalWidthCm
+- Species
 
 This project is based on and forked from [ML from Scratch with IRIS!](https://www.kaggle.com/ash316/ml-from-scratch-with-iris) on Kaggle. 
