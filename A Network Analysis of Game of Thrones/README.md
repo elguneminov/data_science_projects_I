@@ -4,4 +4,4 @@ In this project, you will look at the character co-occurrence network and its ev
 
 This project assumes you are familiar with the networkx package and different network centrality measures. It also assumes that you have used pandas and can manipulate DataFrames. 
 
-This project is based on DataCamp's project '[A Network Analysis of Game of Thrones](https://www.datacamp.com/projects/76)' uses a dataset parsed by Andrew J. Beveridge and Jie Shan which is available [here](https://github.com/mathbeveridge/asoiaf). 
+This project is based on DataCamp's project '[A Network Analysis of Game of Thrones](https://www.datacamp.com/projects/76)' and uses a dataset parsed by Andrew J. Beveridge and Jie Shan which is available [here](https://github.com/mathbeveridge/asoiaf). 
