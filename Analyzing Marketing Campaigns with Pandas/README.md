@@ -4,4 +4,4 @@ This project is based on DataCamp's [Analyzing Marketing Campaign with Pandas](h
 - Conversion Attribution
 - Personalization A/B Test
 
-Thank you!
+Thank you for checking out this project and thank you for the instructor at DataCamp (Jill Rosok, Data Scientist at Spotify) who guided me throughout the course. 
